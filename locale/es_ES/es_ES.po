@@ -20,7 +20,7 @@ msgstr ""
 
 #: translation.js:11
 msgid "08-bits"
-msgstr ""
+msgstr "08-bits"
 
 #: translation.js:12
 msgid "ledoscope-sys-zero-8"
@@ -38,7 +38,7 @@ msgstr ""
 
 #: translation.js:15
 msgid "3-bits Syscounter"
-msgstr ""
+msgstr "Contador del sistema de 3 bits"
 
 #: translation.js:16
 msgid "DFF-03: Three D flip-flops in paralell"
@@ -110,11 +110,11 @@ msgstr ""
 
 #: translation.js:33
 msgid "2-to-1 Multplexer (1-bit channels). Fippled version"
-msgstr ""
+msgstr "Multiplexor 2 a 1 (Canales de 1 bit). Orientacion invertida"
 
 #: translation.js:34
 msgid "2-to-1 Multplexer (1-bit channels)"
-msgstr ""
+msgstr "Multiplexor 2 a 1 (Canales de 1 bit)"
 
 #: translation.js:35
 msgid "NOT gate (Verilog implementation)"
@@ -134,7 +134,7 @@ msgstr ""
 
 #: translation.js:39
 msgid "8-bits Shift register"
-msgstr ""
+msgstr "Registro de desplazamiento de 8 bits"
 
 #: translation.js:40
 msgid ""
@@ -155,7 +155,7 @@ msgstr ""
 
 #: translation.js:43
 msgid "3-bits counter"
-msgstr ""
+msgstr "Contador de 3 bits"
 
 #: translation.js:44
 msgid ""
