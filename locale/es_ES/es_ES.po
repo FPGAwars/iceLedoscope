@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-10-30 11:36+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: translation.js\n"
+
+#: translation.js:10
+msgid "Ledoscope"
+msgstr ""
+
+#: translation.js:11
+msgid "08-bits"
+msgstr ""
+
+#: translation.js:12
+msgid "ledoscope-sys-zero-8"
+msgstr ""
+
+#: translation.js:13
+msgid ""
+"Ledoscope. Capture the input signal during the first 8 cycles after circuit "
+"initialization"
+msgstr ""
+
+#: translation.js:14
+msgid "Constant bit 0"
+msgstr ""
+
+#: translation.js:15
+msgid "3-bits Syscounter"
+msgstr ""
+
+#: translation.js:16
+msgid "DFF-03: Three D flip-flops in paralell"
+msgstr ""
+
+#: translation.js:17
+msgid "D Flip-flop (verilog implementation)"
+msgstr ""
+
+#: translation.js:18
+msgid "Bus3-Split-all: Split the 3-bits bus into three wires"
+msgstr ""
+
+#: translation.js:19
+msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
+msgstr ""
+
+#: translation.js:20
+msgid "Inc1-3bit: Increment a 3-bits number by one"
+msgstr ""
+
+#: translation.js:21
+msgid "AdderK-3bit: Adder of 3-bit operand and 3-bit constant"
+msgstr ""
+
+#: translation.js:22
+msgid "Generic: 3-bits generic constant (0-7)"
+msgstr ""
+
+#: translation.js:23
+msgid "Adder-3bits: Adder of two operands of 3 bits"
+msgstr ""
+
+#: translation.js:24
+msgid "Adder-1bit: Adder of two operands of 1 bit"
+msgstr ""
+
+#: translation.js:25
+msgid "AdderC-1bit: Adder of two operands of 1 bit plus the carry in"
+msgstr ""
+
+#: translation.js:26
+msgid "XOR gate: two bits input xor gate"
+msgstr ""
+
+#: translation.js:27
+msgid "Two bits input And gate"
+msgstr ""
+
+#: translation.js:28
+msgid "OR2: Two bits input OR gate"
+msgstr ""
+
+#: translation.js:29
+msgid "SReg-right-x8: 8 bits Shift register (to the right)"
+msgstr ""
+
+#: translation.js:30
+msgid "Bus8-Join-half: Join the two same halves into an 8-bits Bus"
+msgstr ""
+
+#: translation.js:31
+msgid "SReg-right-x4: 4 bits Shift register (to the right)"
+msgstr ""
+
+#: translation.js:32
+msgid "Reg: 1-Bit register"
+msgstr ""
+
+#: translation.js:33
+msgid "2-to-1 Multplexer (1-bit channels). Fippled version"
+msgstr ""
+
+#: translation.js:34
+msgid "2-to-1 Multplexer (1-bit channels)"
+msgstr ""
+
+#: translation.js:35
+msgid "NOT gate (Verilog implementation)"
+msgstr ""
+
+#: translation.js:36
+msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
+msgstr ""
+
+#: translation.js:37
+msgid "RS-FF-set. RS Flip-flop with priority set"
+msgstr ""
+
+#: translation.js:38
+msgid "Constant bit 1"
+msgstr ""
+
+#: translation.js:39
+msgid "8-bits Shift register"
+msgstr ""
+
+#: translation.js:40
+msgid ""
+"The input channel is captured  \n"
+"on the register. One bit per  \n"
+"system clock"
+msgstr ""
+
+#: translation.js:41
+msgid "RS FlipFlop initialized to 1"
+msgstr ""
+
+#: translation.js:42
+msgid ""
+"while 1, the shift register  \n"
+"is capturing"
+msgstr ""
+
+#: translation.js:43
+msgid "3-bits counter"
+msgstr ""
+
+#: translation.js:44
+msgid ""
+"After 8 cycles the Flip-Flop is  \n"
+"reset and it stops capturing  \n"
+"bits"
+msgstr ""
+
+#: translation.js:45
+msgid "Parameter: Initial value"
+msgstr ""
+
+#: translation.js:46
+msgid "System clock"
+msgstr ""
+
+#: translation.js:47
+msgid "Input data"
+msgstr ""
+
+#: translation.js:48
+msgid "Output"
+msgstr ""
+
+#: translation.js:49
+msgid ""
+"# D Flip-Flop  \n"
+"\n"
+"It stores the input data that arrives at cycle n  \n"
+"Its output is shown in the cycle n+1"
+msgstr ""
+"# Biestable D  \n"
+"\n"
+"Almacena el daato de entrada que llega en el ciclo n  \n"
+"Su salida se muestra en el cyclo n+1"
+
+#: translation.js:50
+msgid "Mux 2-1"
+msgstr ""
+
+#: translation.js:51
+msgid ""
+"D Flip-flip\n"
+"(System)"
+msgstr ""
+
+#: translation.js:52
+msgid "Input"
+msgstr ""
+
+#: translation.js:53
+msgid "Priority for the set"
+msgstr ""
