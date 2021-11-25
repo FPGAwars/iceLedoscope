@@ -16,15 +16,7 @@
           "id": "352e949c-dcf7-4181-85bc-95a2f6be551f",
           "type": "basic.output",
           "data": {
-            "name": "state",
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
-            "virtual": false
+            "name": "state"
           },
           "position": {
             "x": 1280,
@@ -36,15 +28,7 @@
           "type": "basic.outputLabel",
           "data": {
             "blockColor": "fuchsia",
-            "name": "state",
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
-            "virtual": true
+            "name": "state"
           },
           "position": {
             "x": 1136,
@@ -88,7 +72,7 @@
           "type": "basic.inputLabel",
           "data": {
             "blockColor": "fuchsia",
-            "name": "ch",
+            "name": "stop",
             "pins": [
               {
                 "index": "0",
@@ -96,7 +80,8 @@
                 "value": "NULL"
               }
             ],
-            "virtual": true
+            "virtual": true,
+            "oldBlockColor": "fuchsia"
           },
           "position": {
             "x": 528,
@@ -107,16 +92,9 @@
           "id": "5e16dd84-a11b-4c1d-8b9f-e4042b282615",
           "type": "basic.input",
           "data": {
-            "name": "ch",
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
-            "virtual": false,
-            "clock": false
+            "name": "stop",
+            "clock": false,
+            "virtual": false
           },
           "position": {
             "x": 376,
@@ -155,19 +133,7 @@
           "data": {
             "name": "LED",
             "range": "[1:0]",
-            "pins": [
-              {
-                "index": "1",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "0",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": false
+            "size": 2
           },
           "position": {
             "x": 1280,
@@ -213,14 +179,8 @@
           "type": "basic.outputLabel",
           "data": {
             "blockColor": "fuchsia",
-            "name": "ch",
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ],
+            "name": "stop",
+            "oldBlockColor": "fuchsia",
             "virtual": true
           },
           "position": {
