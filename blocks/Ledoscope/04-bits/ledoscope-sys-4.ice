@@ -762,6 +762,16 @@
         },
         {
           "source": {
+            "block": "a6a9ec33-e0e1-4ea0-a7c3-59dca5c0aeb4",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "be6f246a-f21c-46b5-9637-c163604a531a",
+            "port": "adb65ce3-8256-4acb-ad39-154262efb1ad"
+          }
+        },
+        {
+          "source": {
             "block": "26e46079-e271-4cf9-b178-43b06baa0592",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
